@@ -6,7 +6,9 @@ Final Report - https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/f
 Final Project Code - https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/92a5a935-0436-4b89-942e-81c89b65b4ee/view?access_token=ad58f325757bfc28d5279ea219383625bba0ba8d9ce99c2726cfe4ef05be66c4
 
 BlogPost - 
-Specialization Certificate Link: 
+
+Specialization Certificate Link: https://www.coursera.org/account/accomplishments/verify/NMBNT7D7XFQ3
+
 ### Description: 
 Data Science has been ranked as one of the hottest professions and the demand for data practitioners is booming. This Professional Certificate from IBM is intended for anyone interested in developing skills and experience to pursue a career in Data Science or Machine Learning.
 
